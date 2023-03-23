@@ -22,7 +22,7 @@
 1. 可以進到cell進行資料指定
 <img width="700" alt="Untitled" src="https://user-images.githubusercontent.com/65273988/227222784-55ecc15f-c5af-46fb-b79f-e006e2f556ee.png">
     
-    只要在TableViewCell寫好就可以了
+只要在TableViewCell寫好就可以了
     
 <img width="386" alt="Untitled 1" src="https://user-images.githubusercontent.com/65273988/227222882-588a53e8-68ce-452d-ab5c-97211cf9c078.png">
     
